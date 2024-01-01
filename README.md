@@ -85,7 +85,7 @@ endmodule
 
 
 ### RTL realization:
-![Screenshot 2023-11-24 094535](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/bc84549b-e208-41c7-8d5d-96aa78cba9f5)
+![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/bc84549b-e208-41c7-8d5d-96aa78cba9f5)
 
 
 
